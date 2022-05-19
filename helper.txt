@@ -1,0 +1,16 @@
+Overall context found in major topics:
+Politics
+God
+Economics
+Depicted in A1 as topics:
+Politics: 19 30
+God: 23
+Economics: 17
+Depicted in A11 as topics:
+Politics: NOT FOUND
+God: 9
+Economics: 7
+Depicted in A12 as topics:
+Politics: NOT FOUND
+God: NOT FOUND
+Economics: 30, 26
