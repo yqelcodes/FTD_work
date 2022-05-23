@@ -13,4 +13,4 @@ Economics: 7
 Depicted in A12 as topics:
 Politics: NOT FOUND
 God: NOT FOUND
-Economics: 30, 26
+Economics: 30 
