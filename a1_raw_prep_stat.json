@@ -1,0 +1,1593 @@
+[
+    [
+        {
+            "form": "<root>",
+            "LEMMA": "<root>",
+            "POS": "<root>",
+            "GRAM_INF": "<root>",
+            "DEP": ""
+        },
+        {
+            "form": "У",
+            "LEMMA": "у",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "всех",
+            "LEMMA": "все",
+            "POS": "PRON",
+            "GRAM_INF": "Case=Gen|Number=Plur",
+            "DEP": "obl"
+        },
+        {
+            "form": "разные",
+            "LEMMA": "разный",
+            "POS": "ADJ",
+            "GRAM_INF": "Case=Nom|Degree=Pos|Number=Plur",
+            "DEP": "root"
+        },
+        {
+            "form": "требования",
+            "LEMMA": "требование",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur",
+            "DEP": "nsubj"
+        },
+        {
+            "form": "и",
+            "LEMMA": "и",
+            "POS": "CCONJ",
+            "GRAM_INF": "",
+            "DEP": "cc"
+        },
+        {
+            "form": "пожелания",
+            "LEMMA": "пожелание",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+            "DEP": "conj"
+        },
+        {
+            "form": "к",
+            "LEMMA": "к",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "жилью",
+            "LEMMA": "жилье",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing",
+            "DEP": "nmod"
+        },
+        {
+            "form": "и",
+            "LEMMA": "и",
+            "POS": "CCONJ",
+            "GRAM_INF": "",
+            "DEP": "cc"
+        },
+        {
+            "form": "питанию",
+            "LEMMA": "питание",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing",
+            "DEP": "conj"
+        },
+        {
+            "form": "Но",
+            "LEMMA": "но",
+            "POS": "CCONJ",
+            "GRAM_INF": "",
+            "DEP": "cc"
+        },
+        {
+            "form": "давайте",
+            "LEMMA": "давать",
+            "POS": "VERB",
+            "GRAM_INF": "Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act",
+            "DEP": "conj"
+        },
+        {
+            "form": "приблизительно",
+            "LEMMA": "приблизительно",
+            "POS": "ADV",
+            "GRAM_INF": "Degree=Pos",
+            "DEP": "advmod"
+        },
+        {
+            "form": "прикинем",
+            "LEMMA": "прикинуть",
+            "POS": "VERB",
+            "GRAM_INF": "Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act",
+            "DEP": "parataxis"
+        },
+        {
+            "form": "стоимость",
+            "LEMMA": "стоимость",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+            "DEP": "obj"
+        },
+        {
+            "form": "проживания",
+            "LEMMA": "проживание",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing",
+            "DEP": "nmod"
+        },
+        {
+            "form": "в",
+            "LEMMA": "в",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "Нячанге",
+            "LEMMA": "Нячанг",
+            "POS": "PROPN",
+            "GRAM_INF": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+            "DEP": "obl"
+        }
+    ],
+    [
+        {
+            "form": "<root>",
+            "LEMMA": "<root>",
+            "POS": "<root>",
+            "GRAM_INF": "<root>",
+            "DEP": ""
+        },
+        {
+            "form": "Жилье",
+            "LEMMA": "жилье",
+            "POS": "PROPN",
+            "GRAM_INF": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+            "DEP": "nsubj"
+        },
+        {
+            "form": "Гестхаус",
+            "LEMMA": "Гестхаус",
+            "POS": "PROPN",
+            "GRAM_INF": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+            "DEP": "appos"
+        },
+        {
+            "form": "во",
+            "LEMMA": "во",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "вьетнамском",
+            "LEMMA": "вьетнамский",
+            "POS": "ADJ",
+            "GRAM_INF": "Case=Loc|Degree=Pos|Gender=Masc|Number=Sing",
+            "DEP": "amod"
+        },
+        {
+            "form": "стиле",
+            "LEMMA": "стила",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+            "DEP": "root"
+        },
+        {
+            "form": "от",
+            "LEMMA": "от",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "150",
+            "LEMMA": "150",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "obl"
+        }
+    ],
+    [
+        {
+            "form": "<root>",
+            "LEMMA": "<root>",
+            "POS": "<root>",
+            "GRAM_INF": "<root>",
+            "DEP": ""
+        },
+        {
+            "form": "Плюс",
+            "LEMMA": "Плюс",
+            "POS": "PROPN",
+            "GRAM_INF": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+            "DEP": "nsubj"
+        },
+        {
+            "form": "коммуналка",
+            "LEMMA": "коммуналка",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+            "DEP": "nsubj"
+        },
+        {
+            "form": "от",
+            "LEMMA": "от",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "30",
+            "LEMMA": "30",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nummod"
+        },
+        {
+            "form": "Стоимость",
+            "LEMMA": "Стоимость",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+            "DEP": "nmod"
+        },
+        {
+            "form": "жилья",
+            "LEMMA": "жилье",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur",
+            "DEP": "nmod"
+        },
+        {
+            "form": "называют",
+            "LEMMA": "называть",
+            "POS": "VERB",
+            "GRAM_INF": "Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act",
+            "DEP": "root"
+        },
+        {
+            "form": "в",
+            "LEMMA": "в",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "долларах",
+            "LEMMA": "доллара",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur",
+            "DEP": "obl"
+        },
+        {
+            "form": "а",
+            "LEMMA": "а",
+            "POS": "CCONJ",
+            "GRAM_INF": "",
+            "DEP": "cc"
+        },
+        {
+            "form": "при",
+            "LEMMA": "при",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "оплате",
+            "LEMMA": "оплат",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+            "DEP": "obl"
+        },
+        {
+            "form": "уже",
+            "LEMMA": "уже",
+            "POS": "ADV",
+            "GRAM_INF": "Degree=Pos",
+            "DEP": "advmod"
+        },
+        {
+            "form": "переводят",
+            "LEMMA": "переводить",
+            "POS": "VERB",
+            "GRAM_INF": "Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act",
+            "DEP": "conj"
+        },
+        {
+            "form": "в",
+            "LEMMA": "в",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "нужную",
+            "LEMMA": "нужный",
+            "POS": "ADJ",
+            "GRAM_INF": "Case=Acc|Degree=Pos|Gender=Fem|Number=Sing",
+            "DEP": "amod"
+        },
+        {
+            "form": "валюту",
+            "LEMMA": "валюта",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+            "DEP": "obl"
+        },
+        {
+            "form": "по",
+            "LEMMA": "по",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "текущему",
+            "LEMMA": "текущй",
+            "POS": "DET",
+            "GRAM_INF": "Case=Dat|Gender=Neut|Number=Sing",
+            "DEP": "det"
+        },
+        {
+            "form": "курсу",
+            "LEMMA": "курс",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing",
+            "DEP": "obl"
+        },
+        {
+            "form": "В",
+            "LEMMA": "в",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "среднем",
+            "LEMMA": "средне",
+            "POS": "NOUN",
+            "GRAM_INF": "Case=Loc|Gender=Masc|Number=Sing|Person=3",
+            "DEP": "obl"
+        },
+        {
+            "form": "получается",
+            "LEMMA": "получаться",
+            "POS": "VERB",
+            "GRAM_INF": "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid",
+            "DEP": "conj"
+        },
+        {
+            "form": "от",
+            "LEMMA": "от",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "200",
+            "LEMMA": "200",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nummod"
+        },
+        {
+            "form": "Аппартаменты",
+            "LEMMA": "Аппартамент",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur",
+            "DEP": "nsubj"
+        },
+        {
+            "form": "от",
+            "LEMMA": "от",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "250",
+            "LEMMA": "250",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nmod"
+        },
+        {
+            "form": "Нужно",
+            "LEMMA": "нужный",
+            "POS": "ADJ",
+            "GRAM_INF": "Degree=Pos|Gender=Neut|Number=Sing|Variant=Short",
+            "DEP": "parataxis"
+        },
+        {
+            "form": "искать",
+            "LEMMA": "искать",
+            "POS": "VERB",
+            "GRAM_INF": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+            "DEP": "csubj"
+        },
+        {
+            "form": "свежие",
+            "LEMMA": "свежие",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur",
+            "DEP": "obj"
+        },
+        {
+            "form": "аппарты",
+            "LEMMA": "аппарт",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur",
+            "DEP": "conj"
+        },
+        {
+            "form": "с",
+            "LEMMA": "с",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "хорошим",
+            "LEMMA": "хороший",
+            "POS": "ADJ",
+            "GRAM_INF": "Case=Ins|Degree=Pos|Gender=Masc|Number=Sing",
+            "DEP": "amod"
+        },
+        {
+            "form": "ремонтом",
+            "LEMMA": "ремонт",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing",
+            "DEP": "nmod"
+        },
+        {
+            "form": "и",
+            "LEMMA": "и",
+            "POS": "CCONJ",
+            "GRAM_INF": "",
+            "DEP": "cc"
+        },
+        {
+            "form": "мебелью",
+            "LEMMA": "мебель",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing",
+            "DEP": "conj"
+        },
+        {
+            "form": "От",
+            "LEMMA": "от",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "этого",
+            "LEMMA": "это",
+            "POS": "PRON",
+            "GRAM_INF": "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing",
+            "DEP": "obl"
+        },
+        {
+            "form": "и",
+            "LEMMA": "и",
+            "POS": "CCONJ",
+            "GRAM_INF": "",
+            "DEP": "cc"
+        },
+        {
+            "form": "будет",
+            "LEMMA": "быть",
+            "POS": "AUX",
+            "GRAM_INF": "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act",
+            "DEP": "aux"
+        },
+        {
+            "form": "зависеть",
+            "LEMMA": "зависеть",
+            "POS": "VERB",
+            "GRAM_INF": "Aspect=Perf|VerbForm=Inf|Voice=Act",
+            "DEP": "conj"
+        },
+        {
+            "form": "цена",
+            "LEMMA": "цена",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+            "DEP": "nsubj"
+        },
+        {
+            "form": "Квартира",
+            "LEMMA": "Квартира",
+            "POS": "PROPN",
+            "GRAM_INF": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+            "DEP": "appos"
+        },
+        {
+            "form": "2",
+            "LEMMA": "2",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nummod:gov"
+        },
+        {
+            "form": "комнаты",
+            "LEMMA": "комната",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur",
+            "DEP": "parataxis"
+        },
+        {
+            "form": "от",
+            "LEMMA": "от",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "300",
+            "LEMMA": "300",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nmod"
+        }
+    ],
+    [
+        {
+            "form": "<root>",
+            "LEMMA": "<root>",
+            "POS": "<root>",
+            "GRAM_INF": "<root>",
+            "DEP": ""
+        },
+        {
+            "form": "Квартира",
+            "LEMMA": "Квартира",
+            "POS": "PROPN",
+            "GRAM_INF": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur",
+            "DEP": "nsubj"
+        },
+        {
+            "form": "в",
+            "LEMMA": "в",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "новом",
+            "LEMMA": "новый",
+            "POS": "ADJ",
+            "GRAM_INF": "Case=Loc|Degree=Pos|Gender=Neut|Number=Sing",
+            "DEP": "amod"
+        },
+        {
+            "form": "комплексе",
+            "LEMMA": "комплекс",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing",
+            "DEP": "nmod"
+        },
+        {
+            "form": "2",
+            "LEMMA": "2",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nummod:gov"
+        },
+        {
+            "form": "комн",
+            "LEMMA": "комн",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+            "DEP": "nsubj"
+        },
+        {
+            "form": "от",
+            "LEMMA": "от",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "400",
+            "LEMMA": "400",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "root"
+        }
+    ],
+    [
+        {
+            "form": "<root>",
+            "LEMMA": "<root>",
+            "POS": "<root>",
+            "GRAM_INF": "<root>",
+            "DEP": ""
+        },
+        {
+            "form": "Еда",
+            "LEMMA": "еда",
+            "POS": "ADV",
+            "GRAM_INF": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+            "DEP": "advmod"
+        },
+        {
+            "form": "На",
+            "LEMMA": "на",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "улице",
+            "LEMMA": "улица",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing",
+            "DEP": "obl"
+        },
+        {
+            "form": "Порция",
+            "LEMMA": "Порция",
+            "POS": "PROPN",
+            "GRAM_INF": "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing",
+            "DEP": "nmod"
+        },
+        {
+            "form": "риса",
+            "LEMMA": "рис",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+            "DEP": "nmod"
+        },
+        {
+            "form": "с",
+            "LEMMA": "с",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "мясом",
+            "LEMMA": "мясо",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing",
+            "DEP": "nmod"
+        },
+        {
+            "form": "от",
+            "LEMMA": "от",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "40",
+            "LEMMA": "40",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nummod"
+        },
+        {
+            "form": "тыс",
+            "LEMMA": "тыс",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+            "DEP": "nsubj"
+        },
+        {
+            "form": "донгов",
+            "LEMMA": "донг",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+            "DEP": "nmod"
+        },
+        {
+            "form": "120",
+            "LEMMA": "120",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nummod:gov"
+        },
+        {
+            "form": "руб",
+            "LEMMA": "руба",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur",
+            "DEP": "nmod"
+        },
+        {
+            "form": "Тарелка",
+            "LEMMA": "Тарелко",
+            "POS": "PROPN",
+            "GRAM_INF": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+            "DEP": "appos"
+        },
+        {
+            "form": "Фо",
+            "LEMMA": "Фо",
+            "POS": "PROPN",
+            "GRAM_INF": "Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing",
+            "DEP": "appos"
+        },
+        {
+            "form": "Бо",
+            "LEMMA": "Бо",
+            "POS": "PROPN",
+            "GRAM_INF": "",
+            "DEP": "flat:name"
+        },
+        {
+            "form": "от",
+            "LEMMA": "от",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "40",
+            "LEMMA": "40",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nummod"
+        },
+        {
+            "form": "тыс",
+            "LEMMA": "тыс",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+            "DEP": "nmod"
+        },
+        {
+            "form": "донгов",
+            "LEMMA": "донг",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+            "DEP": "nmod"
+        },
+        {
+            "form": "120",
+            "LEMMA": "120",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nummod"
+        },
+        {
+            "form": "руб",
+            "LEMMA": "руба",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur",
+            "DEP": "nmod"
+        },
+        {
+            "form": "Такие",
+            "LEMMA": "такой",
+            "POS": "DET",
+            "GRAM_INF": "Case=Nom|Number=Plur",
+            "DEP": "det"
+        },
+        {
+            "form": "цены",
+            "LEMMA": "цена",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur",
+            "DEP": "nsubj"
+        },
+        {
+            "form": "нужно",
+            "LEMMA": "нужный",
+            "POS": "ADJ",
+            "GRAM_INF": "Degree=Pos|Gender=Neut|Number=Sing|Variant=Short",
+            "DEP": "conj"
+        },
+        {
+            "form": "искать",
+            "LEMMA": "искать",
+            "POS": "VERB",
+            "GRAM_INF": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+            "DEP": "nmod"
+        },
+        {
+            "form": "в",
+            "LEMMA": "в",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "местных",
+            "LEMMA": "местный",
+            "POS": "ADJ",
+            "GRAM_INF": "Case=Loc|Degree=Pos|Number=Plur",
+            "DEP": "amod"
+        },
+        {
+            "form": "кафешках",
+            "LEMMA": "кафешка",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur",
+            "DEP": "obl"
+        },
+        {
+            "form": "в",
+            "LEMMA": "в",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "тур",
+            "LEMMA": "тура",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+            "DEP": "obl"
+        },
+        {
+            "form": "местах",
+            "LEMMA": "место",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur",
+            "DEP": "nmod"
+        },
+        {
+            "form": "будет",
+            "LEMMA": "быть",
+            "POS": "AUX",
+            "GRAM_INF": "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act",
+            "DEP": "cop"
+        },
+        {
+            "form": "подороже",
+            "LEMMA": "подороже",
+            "POS": "ADV",
+            "GRAM_INF": "Degree=Cmp",
+            "DEP": "advmod"
+        },
+        {
+            "form": "Русская",
+            "LEMMA": "Русский",
+            "POS": "ADJ",
+            "GRAM_INF": "Case=Nom|Degree=Pos|Gender=Fem|Number=Sing",
+            "DEP": "amod"
+        },
+        {
+            "form": "еда",
+            "LEMMA": "еда",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing",
+            "DEP": "root"
+        },
+        {
+            "form": "в",
+            "LEMMA": "в",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "кафе",
+            "LEMMA": "кафе",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing",
+            "DEP": "obl"
+        },
+        {
+            "form": "Порция",
+            "LEMMA": "Порция",
+            "POS": "PROPN",
+            "GRAM_INF": "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing",
+            "DEP": "nmod"
+        },
+        {
+            "form": "пюре",
+            "LEMMA": "пюр",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing",
+            "DEP": "conj"
+        },
+        {
+            "form": "с",
+            "LEMMA": "с",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "котлетой",
+            "LEMMA": "котлета",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing",
+            "DEP": "nmod"
+        },
+        {
+            "form": "от",
+            "LEMMA": "от",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "80",
+            "LEMMA": "80",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nummod"
+        },
+        {
+            "form": "тыс",
+            "LEMMA": "тыс",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+            "DEP": "nmod"
+        },
+        {
+            "form": "донгов",
+            "LEMMA": "донг",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+            "DEP": "nmod"
+        },
+        {
+            "form": "270",
+            "LEMMA": "270",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nummod"
+        },
+        {
+            "form": "руб",
+            "LEMMA": "руба",
+            "POS": "NOUN",
+            "GRAM_INF": "",
+            "DEP": "appos"
+        },
+        {
+            "form": "Борщ",
+            "LEMMA": "Борщ",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+            "DEP": "conj"
+        },
+        {
+            "form": "от",
+            "LEMMA": "от",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "60",
+            "LEMMA": "60",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nummod"
+        },
+        {
+            "form": "тыс",
+            "LEMMA": "тыс",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+            "DEP": "nmod"
+        },
+        {
+            "form": "донгов",
+            "LEMMA": "донг",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+            "DEP": "nmod"
+        },
+        {
+            "form": "180",
+            "LEMMA": "180",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nummod:gov"
+        },
+        {
+            "form": "руб",
+            "LEMMA": "руба",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur",
+            "DEP": "nmod"
+        },
+        {
+            "form": "Цены",
+            "LEMMA": "цена",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+            "DEP": "nmod"
+        },
+        {
+            "form": "на",
+            "LEMMA": "на",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "продукты",
+            "LEMMA": "продукт",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur",
+            "DEP": "nmod"
+        }
+    ],
+    [
+        {
+            "form": "<root>",
+            "LEMMA": "<root>",
+            "POS": "<root>",
+            "GRAM_INF": "<root>",
+            "DEP": ""
+        },
+        {
+            "form": "Фрукты",
+            "LEMMA": "Фруктый",
+            "POS": "ADJ",
+            "GRAM_INF": "Degree=Pos",
+            "DEP": "amod"
+        },
+        {
+            "form": "1040",
+            "LEMMA": "1040",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nummod"
+        },
+        {
+            "form": "тыс",
+            "LEMMA": "тыс",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+            "DEP": "nsubj"
+        },
+        {
+            "form": "донгов",
+            "LEMMA": "донг",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+            "DEP": "root"
+        },
+        {
+            "form": "30120",
+            "LEMMA": "30120",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nummod"
+        },
+        {
+            "form": "руб",
+            "LEMMA": "руба",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+            "DEP": "parataxis"
+        },
+        {
+            "form": "Курица",
+            "LEMMA": "Курица",
+            "POS": "PROPN",
+            "GRAM_INF": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+            "DEP": "nsubj"
+        },
+        {
+            "form": "5070",
+            "LEMMA": "5070",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nummod:gov"
+        },
+        {
+            "form": "тыс",
+            "LEMMA": "тыс",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+            "DEP": "parataxis"
+        },
+        {
+            "form": "донгов",
+            "LEMMA": "донг",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+            "DEP": "nmod"
+        },
+        {
+            "form": "150210",
+            "LEMMA": "150210",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nummod"
+        },
+        {
+            "form": "руб",
+            "LEMMA": "руба",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur",
+            "DEP": "nmod"
+        },
+        {
+            "form": "Мясо",
+            "LEMMA": "Мяс",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "6080",
+            "LEMMA": "6080",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nummod"
+        },
+        {
+            "form": "тыс",
+            "LEMMA": "тыс",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+            "DEP": "nmod"
+        },
+        {
+            "form": "донгов",
+            "LEMMA": "донг",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+            "DEP": "nmod"
+        },
+        {
+            "form": "180",
+            "LEMMA": "180",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nummod"
+        },
+        {
+            "form": "240",
+            "LEMMA": "240",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nummod:gov"
+        },
+        {
+            "form": "руб",
+            "LEMMA": "руба",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur",
+            "DEP": "parataxis"
+        },
+        {
+            "form": "Картофель",
+            "LEMMA": "Картофель",
+            "POS": "PROPN",
+            "GRAM_INF": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur",
+            "DEP": "nmod"
+        },
+        {
+            "form": "20",
+            "LEMMA": "20",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nummod:gov"
+        },
+        {
+            "form": "тыс",
+            "LEMMA": "тыс",
+            "POS": "NOUN",
+            "GRAM_INF": "Case=Gen|Number=Plur|Person=2",
+            "DEP": "nmod"
+        },
+        {
+            "form": "донгов",
+            "LEMMA": "донг",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur",
+            "DEP": "nmod"
+        },
+        {
+            "form": "60",
+            "LEMMA": "60",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nummod:gov"
+        },
+        {
+            "form": "руб",
+            "LEMMA": "руба",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur",
+            "DEP": "nmod"
+        },
+        {
+            "form": "Рыба",
+            "LEMMA": "рыба",
+            "POS": "PROPN",
+            "GRAM_INF": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+            "DEP": "nmod"
+        },
+        {
+            "form": "4060",
+            "LEMMA": "4060",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nummod:gov"
+        },
+        {
+            "form": "тыс",
+            "LEMMA": "тыс",
+            "POS": "NOUN",
+            "GRAM_INF": "Case=Gen|Number=Plur|Person=2",
+            "DEP": "nmod"
+        },
+        {
+            "form": "донгов",
+            "LEMMA": "донг",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur",
+            "DEP": "nmod"
+        },
+        {
+            "form": "120180",
+            "LEMMA": "120180",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nummod"
+        },
+        {
+            "form": "руб",
+            "LEMMA": "руба",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur",
+            "DEP": "nmod"
+        },
+        {
+            "form": "Рис",
+            "LEMMA": "Рис",
+            "POS": "PROPN",
+            "GRAM_INF": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+            "DEP": "nsubj"
+        },
+        {
+            "form": "1020",
+            "LEMMA": "1020",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nummod"
+        },
+        {
+            "form": "тыс",
+            "LEMMA": "тыс",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+            "DEP": "nsubj"
+        },
+        {
+            "form": "донгов",
+            "LEMMA": "донг",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+            "DEP": "nmod"
+        },
+        {
+            "form": "3060",
+            "LEMMA": "3060",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nummod:gov"
+        },
+        {
+            "form": "руб",
+            "LEMMA": "руба",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur",
+            "DEP": "nmod"
+        },
+        {
+            "form": "Макароны",
+            "LEMMA": "Макарона",
+            "POS": "PROPN",
+            "GRAM_INF": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing",
+            "DEP": "nmod"
+        },
+        {
+            "form": "30",
+            "LEMMA": "30",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nummod:gov"
+        },
+        {
+            "form": "40",
+            "LEMMA": "40",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nummod:gov"
+        },
+        {
+            "form": "тыс",
+            "LEMMA": "тыс",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing",
+            "DEP": "nmod"
+        },
+        {
+            "form": "донгов",
+            "LEMMA": "донг",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+            "DEP": "nmod"
+        },
+        {
+            "form": "90",
+            "LEMMA": "90",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nummod:gov"
+        },
+        {
+            "form": "120",
+            "LEMMA": "120",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nummod:gov"
+        },
+        {
+            "form": "руб",
+            "LEMMA": "руба",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur",
+            "DEP": "nmod"
+        },
+        {
+            "form": "Виза",
+            "LEMMA": "Виза",
+            "POS": "PROPN",
+            "GRAM_INF": "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing",
+            "DEP": "nmod"
+        },
+        {
+            "form": "На",
+            "LEMMA": "на",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "3",
+            "LEMMA": "3",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nummod:gov"
+        },
+        {
+            "form": "месяца",
+            "LEMMA": "месяц",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing",
+            "DEP": "nmod"
+        },
+        {
+            "form": "2530",
+            "LEMMA": "2530",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "appos"
+        }
+    ],
+    [
+        {
+            "form": "<root>",
+            "LEMMA": "<root>",
+            "POS": "<root>",
+            "GRAM_INF": "<root>",
+            "DEP": ""
+        },
+        {
+            "form": "Визаран",
+            "LEMMA": "Визаран",
+            "POS": "PROPN",
+            "GRAM_INF": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+            "DEP": "nsubj"
+        },
+        {
+            "form": "в",
+            "LEMMA": "в",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "Лаос",
+            "LEMMA": "Лаос",
+            "POS": "PROPN",
+            "GRAM_INF": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+            "DEP": "nmod"
+        },
+        {
+            "form": "70",
+            "LEMMA": "70",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nummod:gov"
+        },
+        {
+            "form": "Можно",
+            "LEMMA": "можно",
+            "POS": "VERB",
+            "GRAM_INF": "Degree=Pos",
+            "DEP": "root"
+        },
+        {
+            "form": "самостоятельно",
+            "LEMMA": "самостоятельно",
+            "POS": "ADV",
+            "GRAM_INF": "Degree=Pos",
+            "DEP": "advmod"
+        },
+        {
+            "form": "ехать",
+            "LEMMA": "ехать",
+            "POS": "VERB",
+            "GRAM_INF": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+            "DEP": "parataxis"
+        },
+        {
+            "form": "в",
+            "LEMMA": "в",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "Камбоджу",
+            "LEMMA": "Камбодже",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+            "DEP": "obl"
+        },
+        {
+            "form": "на",
+            "LEMMA": "на",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "автобусах",
+            "LEMMA": "автобус",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur",
+            "DEP": "obl"
+        },
+        {
+            "form": "Тренажерный",
+            "LEMMA": "Тренажерный",
+            "POS": "ADJ",
+            "GRAM_INF": "Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing",
+            "DEP": "amod"
+        },
+        {
+            "form": "зал",
+            "LEMMA": "засть",
+            "POS": "VERB",
+            "GRAM_INF": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+            "DEP": "parataxis"
+        },
+        {
+            "form": "Абонемент",
+            "LEMMA": "Абонемент",
+            "POS": "PROPN",
+            "GRAM_INF": "Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing",
+            "DEP": "nsubj"
+        },
+        {
+            "form": "от",
+            "LEMMA": "от",
+            "POS": "ADP",
+            "GRAM_INF": "",
+            "DEP": "case"
+        },
+        {
+            "form": "200",
+            "LEMMA": "200",
+            "POS": "NUM",
+            "GRAM_INF": "",
+            "DEP": "nummod"
+        },
+        {
+            "form": "тыс",
+            "LEMMA": "тыс",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+            "DEP": "nmod"
+        },
+        {
+            "form": "донгов",
+            "LEMMA": "донг",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur",
+            "DEP": "nmod"
+        }
+    ],
+    [
+        {
+            "form": "<root>",
+            "LEMMA": "<root>",
+            "POS": "<root>",
+            "GRAM_INF": "<root>",
+            "DEP": ""
+        },
+        {
+            "form": "А",
+            "LEMMA": "а",
+            "POS": "CCONJ",
+            "GRAM_INF": "",
+            "DEP": "cc"
+        },
+        {
+            "form": "дальше",
+            "LEMMA": "далеко",
+            "POS": "ADV",
+            "GRAM_INF": "Degree=Cmp",
+            "DEP": "advmod"
+        },
+        {
+            "form": "уже",
+            "LEMMA": "уже",
+            "POS": "ADV",
+            "GRAM_INF": "Degree=Pos",
+            "DEP": "advmod"
+        },
+        {
+            "form": "сами",
+            "LEMMA": "сам",
+            "POS": "ADJ",
+            "GRAM_INF": "Case=Nom|Degree=Pos|Number=Plur",
+            "DEP": "amod"
+        },
+        {
+            "form": "считайте",
+            "LEMMA": "считать",
+            "POS": "VERB",
+            "GRAM_INF": "Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act",
+            "DEP": "root"
+        },
+        {
+            "form": "Одежда",
+            "LEMMA": "Одежда",
+            "POS": "PART",
+            "GRAM_INF": "Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing",
+            "DEP": "advmod"
+        },
+        {
+            "form": "развлечения",
+            "LEMMA": "развлечение",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing",
+            "DEP": "obj"
+        },
+        {
+            "form": "техника",
+            "LEMMA": "техника",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing",
+            "DEP": "nmod"
+        },
+        {
+            "form": "и",
+            "LEMMA": "и",
+            "POS": "CCONJ",
+            "GRAM_INF": "",
+            "DEP": "cc"
+        },
+        {
+            "form": "т",
+            "LEMMA": "т",
+            "POS": "NOUN",
+            "GRAM_INF": "Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing",
+            "DEP": "conj"
+        }
+    ]
+]
